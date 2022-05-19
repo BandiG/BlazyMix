@@ -1,1 +1,2 @@
-Changed HUD and added new Sonic rival stuff.
+**CAMON ROBIN
+BLAZE SOME FACKIN CATS**
