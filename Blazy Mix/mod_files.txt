@@ -1,3 +1,3 @@
-common\bb2\bsd.ar.00
-common\bb2\bsd.ar.01
-common\bb2\bsd.arl
+add common\bb2\bsd.ar.00
+add common\bb2\bsd.ar.01
+add common\bb2\bsd.arl
