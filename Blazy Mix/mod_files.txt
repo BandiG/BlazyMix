@@ -1,4 +1,3 @@
-add common/Sound
 add common/bb/SonicActionCommonHud.ar.00
 add common/bb/SonicActionCommonHud.arl
 add common/bb2/bsd.ar.00
