@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<CameraSp.prm.xml>
+
+  <GoalCamera>
+    <Category>
+      <Basic>
+        <Param>
+          <Distance>1.08</Distance>
+          <OffsetRight>-0.4953</OffsetRight>
+          <OffsetUp>0.5552</OffsetUp>
+          <Pitch>-4.518</Pitch>
+          <Yaw>-19.094</Yaw>
+        </Param>
+      </Basic>
+    </Category>
+  </GoalCamera>
+
+</CameraSp.prm.xml>
