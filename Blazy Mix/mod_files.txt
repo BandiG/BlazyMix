@@ -1,4 +1,12 @@
 add mod.ini
+add common/bb/SonicActionCommonHud.ar.00
+add common/bb/SonicActionCommonHud.ar.01
+add common/bb/SonicActionCommonHud.arl
+add common/bb2/bsd.ar.00
+add common/bb2/bsd.ar.01
+add common/bb2/bsd.arl
+add common/bb2/shadow.ar.00
+add common/bb2/shadow.arl
 add common/bb3/Sonic.ar.00
 add common/bb3/Sonic.ar.01
 add common/bb3/Sonic.ar.02
