@@ -12,3 +12,7 @@ add common/bb3/Sonic.ar.01
 add common/bb3/Sonic.ar.02
 add common/bb3/Sonic.ar.03
 add common/bb3/Sonic.arl
+add physics/bb/#bne.ar.00
+add physics/bb/#bne.arl
+add physics/bb2/#bsl.ar.00
+add physics/bb2/#bsl.arl
