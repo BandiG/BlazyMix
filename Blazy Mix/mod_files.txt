@@ -16,3 +16,5 @@ add physics/bb/#bne.ar.00
 add physics/bb/#bne.arl
 add physics/bb2/#bsl.ar.00
 add physics/bb2/#bsl.arl
+add physics/bb3/#Sonic.ar.00
+add physics/bb3/#Sonic.arl
